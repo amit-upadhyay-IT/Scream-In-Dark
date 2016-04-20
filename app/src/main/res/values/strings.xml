@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Scream In Dark</string>
+    <string name="welcome">Welcome To The <u>"World of Demons"</u></string>
+    <string name="enter_details">Enter Details</string>
+    <string name="enter_name">Name :</string>
+    <string name="enter_age">Age :</string>
+    <string name="enter_state">Location :</string>
+    <string name="btn_submit">Submit Details</string>
+    <string name="note_1">This will help us to find perfect story for you</string>
+
+    <string name="story_1">Amityville Horror</string>
+    <string name="story_2">The Entity</string>
+    <string name="story_3">Exorcism of Emily Rose</string>
+    <string name="story_4">Wolf Creek</string>
+    <string name="story_5">Haunting in Connecticut</string>
+    <string name="entername">Enter Name</string>
+    <string name="enterage">Enter Age</string>
+    <string name="enterlocation">Enter Location</string>
+    <string name="title_activity_main2">MainActivity2</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Go Back</string>
+    <string name="story1"><b>How many people were murdered in the real Amityville Horror house?</b>\n
+Six. The Amityville Horror true story reveals that on the night of November 13, 1974, twenty three year-old eldest son Ronald "Butch" DeFeo, Jr. (born September 26, 1951) shot his parents, two brothers and two sisters with a .35 caliber Marlin rifle while they slept. The entire DeFeo family is pictured below.
+
+The Six Victims Include:
+Ronald Joseph DeFeo, Sr. - 43
+(born November 16, 1930)
+Louise Brigante DeFeo - 42
+(born November 3, 1931)
+Dawn Terese DeFeo - 18
+(born July 29, 1956)
+Allison Louise DeFeo - 13
+(born August 16, 1961)
+Marc Gregory DeFeo - 12
+(born September 4, 1962)
+John Matthew DeFeo - 9
+(born October 24, 1965)
+\n\n
+<b>Did Ronald DeFeo testify that voices told him to commit the murders?</b>
+\n
+Yes. As Ronald DeFeo, Jr.\'s defense attorney, William Weber, was trying to establish an insanity plea, DeFeo testified that he heard voices that told him to murder his family. Assistant District Attorney Gerard Sullivan made sure that the insanity plea didn\'t hold up, eventually convincing all twelve jurors to deliver a guilty verdict. In a 2002 Primetime Live interview that Ronald DeFeo, Jr. gave from prison, he recanted his testimony, explaining that his parents were abusive and he committed the murders while drunk and high on heroin.
+\n\n
+<b>What happened to the murderer, Ronald DeFeo, Jr.?</b>
+\n
+Ronald DeFeo, Jr. is at Green Haven Correctional Facility in Beekman, New York. On November 25, 1975, he was convicted of six counts of second degree murder and is there serving the six consecutive life sentences he was given.
+\n\n
+<b>Were George and Kathy Lutz really newlyweds?</b>
+\n
+Yes. In researching The Amityville Horror true story, we learned that they had married on July 4, 1975. Both had been married before and the three children were from Kathy\'s prior marriage. According to Daniel, George insisted that he and his siblings be officially adopted, changing their last names from Quaratino to Lutz. The couple also had two daughters together, Noel and Gabrielle, before they divorced in the late 1980s.
+\n\n
+<b>Where is the real Amityville Horror house located?</b>
+\n
+The real Amityville house was located on Long Island at 112 Ocean Avenue, Amityville, New York. However, the address has since been changed to 108 Ocean Avenue in an effort to deter tourists from visiting the location. In 2010, the 5 bedroom 3 1/2 bath house was listed for sale, featuring pictures of the interior. You can also check out the current Google Maps Amityville Horror Home Street View.
+\n\n
+<b>Did a priest really bless the house when the Lutz family was moving in?</b>
+\n
+On December 18, 1975, the day that the real Lutz family was moving into their new Ocean Avenue home in Amityville, a Catholic priest allegedly came by to bless the house, supposedly at the request of Kathy Lutz. On October 4, 1979, a little more than two months after the release of the movie, the investigative television program In Search of featured an episode that included an interview with who they claim is the real Amityville priest. He wanted to remain anonymous, so his face was kept hidden. Watch the Amityville Priest Interview
+"I was blessing the sewing room," says the priest. "It was cold. It was really cold in there. I\'m like, \'Well, gee, this is peculiar,\' because it was a lovely day out, and it was winter, yes, but it didn\'t account for that kind of coldness. I was also sprinkling holy water, and I heard a rather deep voice behind me saying, \'Get out!\' It seemed so directed toward me that I was really quite startled. I felt a slap at one point on the face. I felt somebody slap me, and there was nobody there."
+Unlike in the movie, the priest never mentioned encountering flies in the home. At some point after his visit to the Lutz\'s home, the In Search of episode reveals that he discovered unexplained blisters festering on his hand. The priest was later revealed to be Father Ralph Pecoraro, and like most things related to the Amityville haunting, his story became shrouded in controversy as well, mainly due to various contradictory claims he made regarding his involvement with the Lutz family, specifically when he testified in the Lutz vs. Weber trial.
+\n\n
+<b>Did flies really swarm the priest who blessed the home?</b>
+\n
+No. "They [the filmmakers] could have just as easily had done the flies the way they really happened," says George Lutz, who laughed at the movie\'s portrayal of flies attacking the priest (Rod Steiger). -The Real Amityville Horror
+\n\n
+<b>Could George and Kathy Lutz afford the Ocean Avenue home?</b>
+\n
+According to son Christopher Lutz, George and Kathy did not have trouble paying the mortgage. Due to the history of the home, it was listed well under market price at $80,000. During an interview with Spooky Southcoast, Chris says that George and Kathy were able to make a large down payment with the money they got from selling his mother\'s house as well as George\'s house. By moving into such a spacious place on the water, George was able to cut a number of costs, enabling them to afford the mortgage. He intended to move his family\'s land surveying business into the basement, and he was able to eliminate mooring costs for his two boats since the property had a private boathouse. In his documentary My Amityville Horror, brother Daniel agrees that money for the house was not an issue as portrayed in the movies.
+
+        Thanks for reading this, My name is Amit Upadhyay. I hope you find this interesting.
+    </string>
+
+    <string name="title_activity_story1">The Amityville Horror</string>
+</resources>
